@@ -1,0 +1,63 @@
+{
+  "v": 1,
+  "repository": "clunkyard/house-lattice",
+  "source": {
+    "botId": "97cd01ce-2d90-49bd-9d9c-6e54c82c93fd",
+    "revisionId": "1c9309db-3101-4465-9ce7-2f3a4f53fae1",
+    "manifestHash": "673fbda790e2d8a4577bb80879b2b8d3cef1af5bc960306030ce833f152e5d56"
+  },
+  "visibleManifestHash": "673fbda790e2d8a4577bb80879b2b8d3cef1af5bc960306030ce833f152e5d56",
+  "language": "cobol",
+  "sourceFiles": [
+    {
+      "path": "bot.json",
+      "mode": 420,
+      "size": 465,
+      "sha256": "24f3a04dcf96958bec0d5dbdb85bd274a4106467f054e32580f9d8c026f405fe"
+    },
+    {
+      "path": "lattice.cob",
+      "mode": 384,
+      "size": 27635,
+      "sha256": "359002925ad56db3a72f72385f3d2896c6743ece219ac5055b70271ae7917d49"
+    }
+  ],
+  "directories": [],
+  "managed": [
+    {
+      "path": ".clunkyard-source.json",
+      "sha256": "5dc2c22ce5d0d8301e01242f96191ce789a31f133f0a2702638760df8a741991",
+      "mode": 420
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "e8b41e5528b2d3a8ae4c5dabfcd32ef50c05fff41de096c3701059b5c68a80db",
+      "mode": 420
+    },
+    {
+      "path": "bot.json",
+      "sha256": "8e68795c47e4868cde89cdbaac4691f9fe52eafb12d5538d92cb9def836618cb",
+      "mode": 420
+    },
+    {
+      "path": "lattice.cob",
+      "sha256": "359002925ad56db3a72f72385f3d2896c6743ece219ac5055b70271ae7917d49",
+      "mode": 384
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "652cbd0ba5e21c5b7ee7a52b539cc9087b38b1bfc3ae0baacc6828c8dfdf2e95",
+      "mode": 420
+    },
+    {
+      "path": "Makefile",
+      "sha256": "b41bef136a1fec767be62431121a98d96259ccd8415fc3d71665b22efcd8f79d",
+      "mode": 420
+    },
+    {
+      "path": "README.md",
+      "sha256": "45ef1a204669f53fadcb8a431db20eec2566983ecf5eff6642010370a65122cc",
+      "mode": 420
+    }
+  ]
+}
