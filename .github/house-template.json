@@ -3,7 +3,7 @@
   "repository": "clunkyard/house-lattice",
   "source": {
     "botId": "97cd01ce-2d90-49bd-9d9c-6e54c82c93fd",
-    "revisionId": "1c9309db-3101-4465-9ce7-2f3a4f53fae1",
+    "revisionId": "54328539-6aa8-4d5d-b9c0-262040f00d01",
     "manifestHash": "673fbda790e2d8a4577bb80879b2b8d3cef1af5bc960306030ce833f152e5d56"
   },
   "visibleManifestHash": "673fbda790e2d8a4577bb80879b2b8d3cef1af5bc960306030ce833f152e5d56",
@@ -26,7 +26,7 @@
   "managed": [
     {
       "path": ".clunkyard-source.json",
-      "sha256": "5dc2c22ce5d0d8301e01242f96191ce789a31f133f0a2702638760df8a741991",
+      "sha256": "bbc2bd463637c6dcdaba34e5aa7e9c9728364d566fa9a027322a6e7a8f657a52",
       "mode": 420
     },
     {
@@ -51,12 +51,12 @@
     },
     {
       "path": "Makefile",
-      "sha256": "b41bef136a1fec767be62431121a98d96259ccd8415fc3d71665b22efcd8f79d",
+      "sha256": "56113b1e7b8c900f9222ffed6cfba3382ff4835729e887cab6e75fbf991b4157",
       "mode": 420
     },
     {
       "path": "README.md",
-      "sha256": "45ef1a204669f53fadcb8a431db20eec2566983ecf5eff6642010370a65122cc",
+      "sha256": "0bb6429eca98ae944cb739476df3073b50a85b659a98475b38a99910d5626c7b",
       "mode": 420
     }
   ]
